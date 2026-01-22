@@ -6,3 +6,4 @@ build-backend = "setuptools.build_meta"
 name = "hello-world-app"
 version = "0.1.0"
 description = "A minimal hello world Python application"
+authors = [{name = "trgelectro", email = "trgelectro@email.com"}]
