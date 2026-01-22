@@ -1,0 +1,8 @@
+[build-system]
+requires = ["setuptools>=65.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hello-world-app"
+version = "0.1.0"
+description = "A minimal hello world Python application"
